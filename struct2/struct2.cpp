@@ -9,7 +9,7 @@ struct DetailAlamat {
 struct Mahasiswa
 {
 	string NIM;
-	string Nama;
+	string Nama; 
 	DetailAlamat Alamat;
 	int umur;
 };
